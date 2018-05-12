@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1717
     wikipedia: http://en.wikipedia.org/wiki/Selma_Lagerlöf
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43430#Jerusalem-I-III.-Taalainmaassa.-II.-Pyh-ss--maassa.
 gutenberg_issued: '2013-08-10'
 gutenberg_type: Text
 identifiers:
